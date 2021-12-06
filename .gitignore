@@ -1,0 +1,7 @@
+# Terraform
+.terraform/
+.terraform*
+*.tfstate*
+rootkey.csv
+*.pem
+
